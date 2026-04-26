@@ -53,6 +53,7 @@ This portfolio showcases my journey in programming, projects, and continuous lea
 
 * GitHub: [github.com/naguballa77](#)
 * Email: [[naguballa77@proton.me](mailto:naguballa77@proton.me)]
+* linked in :[linked in](linkedin.com/narasimhamurthy4616)
 
 ---
 
