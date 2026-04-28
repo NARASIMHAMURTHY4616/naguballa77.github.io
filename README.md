@@ -44,7 +44,7 @@ This portfolio showcases my journey in programming, projects, and continuous lea
 
 ## 🌟 Projects
 
-* 🕵️‍♂️ **Ransom ware ** - A simulated ransome ware li ssh
+* 🕵️‍♂️ **Ransom ware ** - A simulated ransome ware cli ssh
 * 🌐 **Portfolio Website** – A personal website to showcase my skills, projects, and achievements
 
 ---
