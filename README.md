@@ -1,6 +1,6 @@
 # naguballa77.github.io
 # 👋 Hi, I'm Naga Veera Venkata Satya Narasimha Murthy (Nagu)
-
+# ha this i a portfolio
 ### 💻 Aspiring Ethical Hacker | Computer Engineering Student | Lifelong Learner
 
 Welcome to my personal portfolio repository!
